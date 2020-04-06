@@ -120,7 +120,7 @@ div.question.improved input{
     position: relative;
     top: 2px;
 }
-@media (max-width:400px)
+@media (max-width:412px)
 {
     form
 {
